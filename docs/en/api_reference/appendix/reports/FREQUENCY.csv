@@ -36,3 +36,6 @@
 "CONVERSIONS","コンバージョン数","Conversions","conversions","LONG",
 "CONV_RATE","コンバージョン率","Conversion Rate","convRate","DOUBLE",
 "COST_PER_CONV","コスト/コンバージョン数","Cost per Conversions","costPerConv","DOUBLE",
+"ALL_CONV","すべてのコンバージョン数","All Conv.","allConv","LONG",
+"ALL_CONV_RATE","すべてのコンバージョン率","All Conv. Rate","allConvRate","DOUBLE",
+"COST_PER_ALL_CONV","コスト/すべてのコンバージョン数","Cost Per All Conv.","costPerAllConv","DOUBLE",
